@@ -1,5 +1,5 @@
 # 🌿 Performance Campaign Plan  
-_Application for Performance Marketing Intern_
+_Application for Performance Marketing_
 
 ---
 
