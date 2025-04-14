@@ -1,4 +1,4 @@
-# 🌿 Devavi Performance Campaign Plan  
+# 🌿 Performance Campaign Plan  
 _Application for Performance Marketing Intern_
 
 ---
