@@ -1,4 +1,4 @@
-# 🌿 Performance Campaign Plan  
+# 🌿 Velora Botanicals Performance Campaign Plan  
 _Application for Performance Marketing_
 
 ---
@@ -46,14 +46,14 @@ _Application for Performance Marketing_
 ### 📝 Primary Texts
 **Ad Text 1**  
 ✨ Your skin deserves better.  
-Introducing **Devavi** – India’s clean, vegan skincare line crafted with plant-based goodness.  
+Introducing **Velora** – India’s clean, vegan skincare line crafted with plant-based goodness.  
 💚 Cruelty-free | 🌱 Vegan | 🧪 Dermat-tested  
 ✅ Oily, dry or sensitive skin? We got you.  
 🛒 _Shop now and feel the difference._
 
 **Ad Text 2**  
 Tired of skincare that breaks promises *and* your skin?  
-Try **Devavi** – clean ingredients, real results.  
+Try **Velora** – clean ingredients, real results.  
 ✔️ Vegan | ✔️ Clean | ✔️ Glowing, Healthy Skin  
 _Tap in to start your glow-up_ 🌿✨
 
@@ -114,7 +114,7 @@ _Tap in to start your glow-up_ 🌿✨
 ### Phase 3 – Challenge & Hype (Days 7–10)
 - Launch `#GlowLikeThat Challenge`  
 - Real user testimonials + before/after shots  
-- IG Live: Devavi skincare routine + giveaway  
+- IG Live: Velora skincare routine + giveaway  
 
 ### ✨ Influencer Collab Suggestion
 **@poohwithkorea**  
